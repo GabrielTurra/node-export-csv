@@ -1,4 +1,4 @@
-## Usign Postgres cursor and node streams to generate big csv files.
+## Using Postgres cursor and node streams to generate big csv files.
 
 ### Running:
 ### 1. Run the following command to setup the docker container:
